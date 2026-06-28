@@ -1,0 +1,11 @@
+{
+  "badge": "DLW-THE_CIPHER_IN_THE_CURVE",
+  "name": "THE CIPHER IN THE CURVE · CIC",
+  "universe": "HERMES",
+  "moniker": "⟦THE CIPHER IN THE CURVE · CIC:the-cipher-in-the-curve:29a8cf⟧",
+  "architect": "David Lee Wise (ROOT0) / Bridge-Burners LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "seal_sha256": "29a8cfc78e1a2911900969772ba2215b837fa0843651f02dc88508944d7018fa",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
