@@ -2,8 +2,8 @@ ROOT0-DLW-CHAIN-v1
 index : 38
 slug  : the-cipher-in-the-curve
 seal  : 29a8cfc78e1a2911900969772ba2215b837fa0843651f02dc88508944d7018fa
-prev  : c00f3484f6226ad15fbeb847206dd5fcf7330b8d1bfd4d3b426eef1844c3f0d6
-link  : acec9be919e958e7175805ba695a937b97204708af6d752f1fbe0e09226adbba
-head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
+prev  : 2b956f99d9d677507a6604bdf7ffb044dfd363199594f429cfe4c18f53a3cadb
+link  : 926153cb59e2e90fdc21994b88d045f83964c65407aeb5c2192ab16795497a53
+head  : c4d41afeaef76470528856d54d86cf480a0e1c2fc8ebc60fbb9eb8e442585f2b
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
